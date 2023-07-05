@@ -1,3 +1,4 @@
+# You need to install turtle if not already installed.
 import turtle as tr
 
 class Pen(tr.Turtle):
